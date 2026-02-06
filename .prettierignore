@@ -1,27 +1,32 @@
-# Сборка
+# Build output
 dist
 build
 
-# Зависимости
+# Dependencies
 node_modules
 
-# IDE / редактор
+# IDE / editors
 .vscode
 .idea
 
-# # Конфиги
-# *.config.js
-# *.config.ts
-# *.d.ts
+# OS junk
+.DS_Store
 
-# Минифицированные / собранные файлы
+# Minified / generated files
 *.min.js
 *.bundle.js
 *.map
 
-# Логи
+# Logs
 *.log
 
-# Любые временные файлы
+# Temp files
 tmp/
 temp/
+
+# Package managers
+/pnpm-lock.yaml
+/pnpm-workspace.yaml
+
+# Config output
+/config
