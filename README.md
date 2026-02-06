@@ -1,12 +1,13 @@
 <h1 align="center">
-  Vite Template by Story 
+  Vite Template by Story 🚀
   <image src="https://img.shields.io/badge/version-1.0.0-white?labelColor=FFFFFF&color=blue&style=flat"/>
 </h1>
 
 <div align="center">
   <image
     src="https://raw.githubusercontent.com/StoryTW/vite-template-by-story/c1ceba4b0583a5f3de16fe424be2815eeae3912c/public/vite.svg" 
-    height="100px" 
+    height="150px"
+    width="150px"
     alt="vite-logo"
   />
 </div>
@@ -28,7 +29,7 @@
   </a>
 </div>
 
-## Introduction
+## 📌 Introduction
 
 A starter [Vite](https://vitejs.dev/) template having:
 
