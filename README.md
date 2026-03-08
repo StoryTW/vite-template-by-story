@@ -40,8 +40,6 @@ A starter [Vite](https://vitejs.dev/) template having:
 - [Vite SVGR loader](https://www.npmjs.com/package/vite-plugin-svgr)
 - My custom [ESLint](https://eslint.org/) config [@storytw/eslint-config](https://github.com/users/StoryTW/packages/npm/package/eslint-config) installed with [@stylistic](https://eslint.style/rules)
 
-> I have already implemented some recommended configurations in `eslint.config.js`, `.prettierrc`. Feel free to edit them if you have your own preferences.
-
 ## 📦 Using this template
 
 You can create a new project in several ways.
