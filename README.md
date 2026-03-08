@@ -12,7 +12,7 @@
   />
 </div>
 
-<h2 align="center">React + TypeScript + Vite + SASS + ESLint + Prettier</h2>
+<h2 align="center">React + TypeScript + Vite + SASS + ESLint</h2>
 
 <div align="center">
   <a href="https://reactjs.org/">
@@ -37,9 +37,8 @@ A starter [Vite](https://vitejs.dev/) template having:
 - [TypeScript](https://www.typescriptlang.org/)
 - [SASS](https://sass-lang.com/)
 - [modern-normalize](https://www.npmjs.com/package/modern-normalize)
-- [clsx](https://www.npmjs.com/package/clsx)
 - [Vite SVGR loader](https://www.npmjs.com/package/vite-plugin-svgr)
-- Multiple [ESLint](https://eslint.org/) & [Prettier](https://prettier.io/) plugins installed
+- My custom [ESLint](https://eslint.org/) config [@storytw/eslint-config](https://github.com/users/StoryTW/packages/npm/package/eslint-config) installed with [@stylistic](https://eslint.style/rules)
 
 > I have already implemented some recommended configurations in `eslint.config.js`, `.prettierrc`. Feel free to edit them if you have your own preferences.
 

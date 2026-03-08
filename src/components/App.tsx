@@ -11,11 +11,19 @@ function App() {
     <div className={styles.root}>
       <div className={styles.imgContainer}>
         <a href='https://vite.dev' target='_blank'>
-          <img src={viteLogo} className={styles.logo} alt='Vite logo' />
+          <img
+            src={viteLogo}
+            className={styles.logo}
+            alt='Vite logo'
+          />
         </a>
 
         <a href='https://react.dev' target='_blank'>
-          <img src={reactLogo} className={clsx(styles.logo, styles.react)} alt='React logo' />
+          <img
+            src={reactLogo}
+            className={clsx(styles.logo, styles.react)}
+            alt='React logo'
+          />
         </a>
       </div>
 
@@ -37,16 +45,27 @@ function App() {
 
       <div className={styles.stack}>
         <a href='https://reactjs.org/'>
-          <img src='https://img.shields.io/static/v1?label=React&message=19.2.1&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB' />
+          <img
+            src='https://img.shields.io/static/v1?label=React&message=19.2.1&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB'
+          />
         </a>
+
         <a href='https://www.typescriptlang.org/'>
-          <img src='https://img.shields.io/static/v1?label=TypeScript&message=5.9.3&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6' />
+          <img
+            src='https://img.shields.io/static/v1?label=TypeScript&message=5.9.3&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6'
+          />
         </a>
+
         <a href='https://vite.dev/'>
-          <img src='https://img.shields.io/static/v1?label=Vite&message=7.1.4&style=for-the-badge&labelColor=FFFFFF&logo=vite&color=646CFF' />
+          <img
+            src='https://img.shields.io/static/v1?label=Vite&message=7.1.4&style=for-the-badge&labelColor=FFFFFF&logo=vite&color=646CFF'
+          />
         </a>
+
         <a href='https://sass-lang.com/'>
-          <img src='https://img.shields.io/static/v1?label=SASS&message=1.97.3&style=for-the-badge&labelColor=FFFFFF&logo=sass&color=BF3F7F' />
+          <img
+            src='https://img.shields.io/static/v1?label=SASS&message=1.97.3&style=for-the-badge&labelColor=FFFFFF&logo=sass&color=BF3F7F'
+          />
         </a>
       </div>
     </div>
