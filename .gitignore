@@ -8,6 +8,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+.pnpm*
 
 # ======================
 # Dependencies / build
@@ -30,6 +31,7 @@ dist-ssr
 .stylelintcache
 .cache
 .parcel-cache
+.pnpm-store
 
 # ======================
 # Pack output
