@@ -38,7 +38,7 @@ A starter [Vite](https://vitejs.dev/) template having:
 - [SASS](https://sass-lang.com/)
 - [modern-normalize](https://www.npmjs.com/package/modern-normalize)
 - [Vite SVGR loader](https://www.npmjs.com/package/vite-plugin-svgr)
-- My custom [ESLint](https://eslint.org/) config [@storytw/eslint-config](https://github.com/users/StoryTW/packages/npm/package/eslint-config) installed with [@stylistic](https://eslint.style/rules)
+- My custom [ESLint](https://eslint.org/) config [@storytw/eslint-config](https://www.npmjs.com/package/@storytw/eslint-config) installed with [@stylistic](https://eslint.style/rules)
 
 ## 📦 Using this template
 
