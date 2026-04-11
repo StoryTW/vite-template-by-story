@@ -19,8 +19,8 @@ importers:
         version: 19.2.5(react@19.2.5)
     devDependencies:
       '@storytw/eslint-config':
-        specifier: 1.0.23
-        version: 1.0.23(@typescript-eslint/eslint-plugin@8.56.1(@typescript-eslint/parser@8.56.1(eslint@9.39.4)(typescript@5.9.3))(eslint@9.39.4)(typescript@5.9.3))(@typescript-eslint/parser@8.56.1(eslint@9.39.4)(typescript@5.9.3))(typescript@5.9.3)
+        specifier: 1.0.25
+        version: 1.0.25(@typescript-eslint/eslint-plugin@8.56.1(@typescript-eslint/parser@8.56.1(eslint@9.39.4)(typescript@5.9.3))(eslint@9.39.4)(typescript@5.9.3))(@typescript-eslint/parser@8.56.1(eslint@9.39.4)(typescript@5.9.3))(typescript@5.9.3)
       '@types/node':
         specifier: 24.10.1
         version: 24.10.1
@@ -464,8 +464,8 @@ packages:
   '@rtsao/scc@1.1.0':
     resolution: {integrity: sha512-zt6OdqaDoOnJ1ZYsCYGt9YmWzDXl4vQdKTyJev62gFhRGKdx7mcT54V9KIjg+d2wi9EXsPvAPKe7i7WjfVWB8g==}
 
-  '@storytw/eslint-config@1.0.23':
-    resolution: {integrity: sha512-qA8KSt8CxFHnaLfnPyf0QxqIhThb6x1NPzOHOvN+vgGCLEEvBO9eg++E27nezNwkW8G5Z7ryfASuFCpe2sGoCQ==}
+  '@storytw/eslint-config@1.0.25':
+    resolution: {integrity: sha512-XPnAcOV8kHkuD7c3nnC0pj4ef3NhMfGlX/Mw6VDBROBOKeEgZosqPstnq8yz07y1SX46ypO9dCK29ZfiY5yKJA==}
 
   '@stylistic/eslint-plugin@5.10.0':
     resolution: {integrity: sha512-nPK52ZHvot8Ju/0A4ucSX1dcPV2/1clx0kLcH5wDmrE4naKso7TUC/voUyU1O9OTKTrR6MYip6LP0ogEMQ9jPQ==}
@@ -2477,7 +2477,7 @@ snapshots:
 
   '@rtsao/scc@1.1.0': {}
 
-  '@storytw/eslint-config@1.0.23(@typescript-eslint/eslint-plugin@8.56.1(@typescript-eslint/parser@8.56.1(eslint@9.39.4)(typescript@5.9.3))(eslint@9.39.4)(typescript@5.9.3))(@typescript-eslint/parser@8.56.1(eslint@9.39.4)(typescript@5.9.3))(typescript@5.9.3)':
+  '@storytw/eslint-config@1.0.25(@typescript-eslint/eslint-plugin@8.56.1(@typescript-eslint/parser@8.56.1(eslint@9.39.4)(typescript@5.9.3))(eslint@9.39.4)(typescript@5.9.3))(@typescript-eslint/parser@8.56.1(eslint@9.39.4)(typescript@5.9.3))(typescript@5.9.3)':
     dependencies:
       '@eslint/js': 9.39.4
       '@stylistic/eslint-plugin': 5.10.0(eslint@9.39.4)
