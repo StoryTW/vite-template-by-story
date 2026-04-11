@@ -36,7 +36,7 @@ function App() {
         </a>
 
         <img
-          src='https://img.shields.io/badge/version-1.0.0-white?labelColor=FFFFFF&color=green&style=flat'
+          src='https://img.shields.io/badge/version-1.3.0-white?labelColor=FFFFFF&color=green&style=flat'
           alt='version-badge'
         />
       </div>
@@ -46,7 +46,7 @@ function App() {
       <div className={styles.stack}>
         <a href='https://reactjs.org/'>
           <img
-            src='https://img.shields.io/static/v1?label=React&message=19.2.1&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB'
+            src='https://img.shields.io/static/v1?label=React&message=19.2.5&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB'
           />
         </a>
 
@@ -58,13 +58,13 @@ function App() {
 
         <a href='https://vite.dev/'>
           <img
-            src='https://img.shields.io/static/v1?label=Vite&message=7.1.4&style=for-the-badge&labelColor=FFFFFF&logo=vite&color=646CFF'
+            src='https://img.shields.io/static/v1?label=Vite&message=8.0.8&style=for-the-badge&labelColor=FFFFFF&logo=vite&color=646CFF'
           />
         </a>
 
         <a href='https://sass-lang.com/'>
           <img
-            src='https://img.shields.io/static/v1?label=SASS&message=1.97.3&style=for-the-badge&labelColor=FFFFFF&logo=sass&color=BF3F7F'
+            src='https://img.shields.io/static/v1?label=SASS&message=1.99.0&style=for-the-badge&labelColor=FFFFFF&logo=sass&color=BF3F7F'
           />
         </a>
       </div>
