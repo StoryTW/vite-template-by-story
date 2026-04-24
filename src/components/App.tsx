@@ -3,7 +3,6 @@ import clsx from 'clsx';
 import reactLogo from '@/assets/images/react.svg';
 
 import styles from './App.module.scss';
-
 import viteLogo from '/vite.svg';
 
 function App() {
@@ -36,7 +35,7 @@ function App() {
         </a>
 
         <img
-          src='https://img.shields.io/badge/version-1.3.0-white?labelColor=FFFFFF&color=green&style=flat'
+          src='https://img.shields.io/badge/version-1.3.1-white?labelColor=FFFFFF&color=green&style=flat'
           alt='version-badge'
         />
       </div>
@@ -52,13 +51,13 @@ function App() {
 
         <a href='https://www.typescriptlang.org/'>
           <img
-            src='https://img.shields.io/static/v1?label=TypeScript&message=5.9.3&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6'
+            src='https://img.shields.io/static/v1?label=TypeScript&message=6.0.3&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6'
           />
         </a>
 
         <a href='https://vite.dev/'>
           <img
-            src='https://img.shields.io/static/v1?label=Vite&message=8.0.8&style=for-the-badge&labelColor=FFFFFF&logo=vite&color=646CFF'
+            src='https://img.shields.io/static/v1?label=Vite&message=8.0.10&style=for-the-badge&labelColor=FFFFFF&logo=vite&color=646CFF'
           />
         </a>
 

@@ -1,6 +1,6 @@
 <h1 align="center">
   Vite Template by Story 🚀
-  <image src="https://img.shields.io/badge/version-1.0.0-white?labelColor=FFFFFF&color=blue&style=flat"/>
+  <image src="https://img.shields.io/badge/version-1.3.1-white?labelColor=FFFFFF&color=blue&style=flat"/>
 </h1>
 
 <div align="center">
@@ -19,10 +19,10 @@
     <image src="https://img.shields.io/static/v1?label=React&message=19.2.5&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB"/>
   </a> 
   <a href="https://www.typescriptlang.org/">
-    <image src="https://img.shields.io/static/v1?label=TypeScript&message=5.9.3&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6"/>
+    <image src="https://img.shields.io/static/v1?label=TypeScript&message=6.0.3&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6"/>
   </a> 
     <a href="https://vite.dev/">
-    <image src="https://img.shields.io/static/v1?label=Vite&message=8.0.8&style=for-the-badge&labelColor=FFFFFF&logo=vite&color=646CFF"/>
+    <image src="https://img.shields.io/static/v1?label=Vite&message=8.0.10&style=for-the-badge&labelColor=FFFFFF&logo=vite&color=646CFF"/>
   </a>
   <a href="https://sass-lang.com/">
     <image src="https://img.shields.io/static/v1?label=SASS&message=1.99&style=for-the-badge&labelColor=FFFFFF&logo=sass&color=BF3F7F"/>
