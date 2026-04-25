@@ -19,8 +19,8 @@ importers:
         version: 19.2.5(react@19.2.5)
     devDependencies:
       '@storytw/eslint-config':
-        specifier: 1.1.2
-        version: 1.1.2(@typescript-eslint/eslint-plugin@8.59.0(@typescript-eslint/parser@8.59.0(eslint@10.2.1)(typescript@6.0.3))(eslint@10.2.1)(typescript@6.0.3))(@typescript-eslint/utils@8.59.0(eslint@10.2.1)(typescript@6.0.3))(typescript@6.0.3)
+        specifier: 1.1.4
+        version: 1.1.4(@typescript-eslint/eslint-plugin@8.59.0(@typescript-eslint/parser@8.59.0(eslint@10.2.1)(typescript@6.0.3))(eslint@10.2.1)(typescript@6.0.3))(@typescript-eslint/utils@8.59.0(eslint@10.2.1)(typescript@6.0.3))(typescript@6.0.3)
       '@types/node':
         specifier: 25.6.0
         version: 25.6.0
@@ -471,8 +471,8 @@ packages:
       rollup:
         optional: true
 
-  '@storytw/eslint-config@1.1.2':
-    resolution: {integrity: sha512-+TFaAu5HHuVYkWH+xpCqpoZygGg1grC1/d6RWuJjrFKsvFdNuGtEDqaJBKWlRu9lEINZItLfDLhBqkvxbvv2Eg==}
+  '@storytw/eslint-config@1.1.4':
+    resolution: {integrity: sha512-k4yUTBgnz0vijDPVowwWvFdauAIVicp5m2hnmPk8jqoiK9OCi2Jcdo+BWSo9wcxBMsDDVAavi6bXVEiS2azTSg==}
 
   '@stylistic/eslint-plugin@5.10.0':
     resolution: {integrity: sha512-nPK52ZHvot8Ju/0A4ucSX1dcPV2/1clx0kLcH5wDmrE4naKso7TUC/voUyU1O9OTKTrR6MYip6LP0ogEMQ9jPQ==}
@@ -2046,7 +2046,7 @@ snapshots:
       estree-walker: 2.0.2
       picomatch: 4.0.4
 
-  '@storytw/eslint-config@1.1.2(@typescript-eslint/eslint-plugin@8.59.0(@typescript-eslint/parser@8.59.0(eslint@10.2.1)(typescript@6.0.3))(eslint@10.2.1)(typescript@6.0.3))(@typescript-eslint/utils@8.59.0(eslint@10.2.1)(typescript@6.0.3))(typescript@6.0.3)':
+  '@storytw/eslint-config@1.1.4(@typescript-eslint/eslint-plugin@8.59.0(@typescript-eslint/parser@8.59.0(eslint@10.2.1)(typescript@6.0.3))(eslint@10.2.1)(typescript@6.0.3))(@typescript-eslint/utils@8.59.0(eslint@10.2.1)(typescript@6.0.3))(typescript@6.0.3)':
     dependencies:
       '@eslint/js': 10.0.1(eslint@10.2.1)
       '@stylistic/eslint-plugin': 5.10.0(eslint@10.2.1)
