@@ -35,7 +35,7 @@ function App() {
         </a>
 
         <img
-          src='https://img.shields.io/badge/version-1.3.3-white?labelColor=FFFFFF&color=green&style=flat'
+          src='https://img.shields.io/badge/version-1.3.4-white?labelColor=FFFFFF&color=green&style=flat'
           alt='version-badge'
         />
       </div>

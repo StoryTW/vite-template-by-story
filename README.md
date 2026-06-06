@@ -1,6 +1,6 @@
 <h1 align="center">
   Vite Template by Story 🚀
-  <image src="https://img.shields.io/badge/version-1.3.3-white?labelColor=FFFFFF&color=blue&style=flat"/>
+  <image src="https://img.shields.io/badge/version-1.3.4-white?labelColor=FFFFFF&color=blue&style=flat"/>
 </h1>
 
 <div align="center">
