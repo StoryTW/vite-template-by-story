@@ -15,7 +15,9 @@ export default defineConfig(({ mode, command }) => {
       react(),
       svgr(),
       isDev && checker({
-        typescript: true,
+        typescript: {
+          tsconfigPath: './tsconfig.app.json',
+        },
         eslint: {
           lintCommand: 'eslint ./src',
           useFlatConfig: true,
