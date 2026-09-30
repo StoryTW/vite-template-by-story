@@ -15,6 +15,9 @@ export default defineConfig(({ mode, command }) => {
       react(),
       svgr(),
       isDev && checker({
+        overlay: {
+          initialIsOpen: false,
+        },
         typescript: {
           tsconfigPath: './tsconfig.app.json',
         },
@@ -29,7 +32,7 @@ export default defineConfig(({ mode, command }) => {
       tsconfigPaths: true,
 
       alias: {
-        '@': path.resolve(__dirname, 'src'),
+        '@': path.resolve(import.meta.dirname, 'src'),
       },
     },
 

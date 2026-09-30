@@ -1,33 +1,8 @@
 <h1 align="center">
   Vite Template by Story 🚀
-  <image src="https://img.shields.io/badge/version-1.3.5-white?labelColor=FFFFFF&color=blue&style=flat"/>
 </h1>
 
-<div align="center">
-  <image
-    src="https://raw.githubusercontent.com/StoryTW/vite-template-by-story/c1ceba4b0583a5f3de16fe424be2815eeae3912c/public/vite.svg" 
-    height="150px"
-    width="150px"
-    alt="vite-logo"
-  />
-</div>
-
 <h2 align="center">React + TypeScript + Vite + SASS + ESLint</h2>
-
-<div align="center">
-  <a href="https://reactjs.org/">
-    <image src="https://img.shields.io/static/v1?label=React&message=19.2.8&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/">
-    <image src="https://img.shields.io/static/v1?label=TypeScript&message=6.0.3&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6"/>
-  </a> 
-    <a href="https://vite.dev/">
-    <image src="https://img.shields.io/static/v1?label=Vite&message=8.1.5&style=for-the-badge&labelColor=FFFFFF&logo=vite&color=646CFF"/>
-  </a>
-  <a href="https://sass-lang.com/">
-    <image src="https://img.shields.io/static/v1?label=SASS&message=1.100.0&style=for-the-badge&labelColor=FFFFFF&logo=sass&color=BF3F7F"/>
-  </a>
-</div>
 
 ## 📌 Introduction
 
