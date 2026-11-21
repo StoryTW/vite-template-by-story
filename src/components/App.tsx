@@ -5,11 +5,11 @@ import reactLogo from '@/assets/images/react.svg';
 import styles from './App.module.scss';
 import viteLogo from '/vite.svg';
 
-const TEMPLATE_VERSION = '1.3.6';
-const REACT_VERSION = '19.3.0';
+const TEMPLATE_VERSION = '1.3.7';
+const REACT_VERSION = '19.3.1';
 const TS_VERSION = '6.0.3';
-const VITE_VERSION = '8.3.1';
-const SASS_VERSION = '1.105.1';
+const VITE_VERSION = '8.3.8';
+const SASS_VERSION = '1.108.2';
 
 function App() {
   return (

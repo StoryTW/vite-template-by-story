@@ -17,7 +17,10 @@
     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
   "[json]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
   },
   "eslint.validate": [
     "javascript",

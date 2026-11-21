@@ -1,3 +1,5 @@
 import storyConfig from '@storytw/eslint-config';
 
-export default storyConfig();
+export default storyConfig({
+  framework: 'vite',
+});
