@@ -1,5 +1,5 @@
 <h1 align="center">
-  Vite Template by Story 🚀
+  Vite ESLint Template by Story 🚀
 </h1>
 
 <h2 align="center">React + TypeScript + Vite + SASS + ESLint</h2>
@@ -35,7 +35,7 @@ npm run dev
 ### ✅ Option 2 — GitHub CLI
 
 ```sh
-gh repo create my-app --template StoryTW/vite-template-by-story
+gh repo create my-app --template StoryTW/vite-eslint-template
 cd my-app
 npm install
 npm run dev
@@ -44,7 +44,7 @@ npm run dev
 ### ✅ Option 3 — degit
 
 ```sh
-npx degit StoryTW/vite-template-by-story my-app
+npx degit StoryTW/vite-eslint-template my-app
 cd my-app
 npm install
 npm run dev
