@@ -4,4 +4,5 @@ allowBuilds:
   esbuild: true
   unrs-resolver: true
 minimumReleaseAgeExclude:
+  - '@storytw/eslint-config@2.2.2'
 
